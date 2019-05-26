@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/caso-client/static/media/fa-regular-400.5eb754ab.svg"
   },
   {
-    "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
-    "url": "/caso-client/static/media/fa-solid-900.46e7cec6.eot"
-  },
-  {
     "revision": "ff8d9f8adb0d09f11d4816a152672f53",
     "url": "/caso-client/static/media/fa-solid-900.ff8d9f8a.ttf"
+  },
+  {
+    "revision": "46e7cec623d8bd790d9fdbc8de2d3ee7",
+    "url": "/caso-client/static/media/fa-solid-900.46e7cec6.eot"
   },
   {
     "revision": "5bf145531213545e03ff41cd27df7d2b",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/caso-client/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "81601ddd39951f2d7088333a597d7c5b",
-    "url": "/caso-client/static/media/ModenaSans-Regular.81601ddd.otf"
-  },
-  {
     "revision": "3db6e9276721cadfed7b947425de42ac",
     "url": "/caso-client/static/media/ModenaSans-Regular.3db6e927.ttf"
+  },
+  {
+    "revision": "81601ddd39951f2d7088333a597d7c5b",
+    "url": "/caso-client/static/media/ModenaSans-Regular.81601ddd.otf"
   },
   {
     "revision": "752c13e1b881564f5f54afa1a4859492",
