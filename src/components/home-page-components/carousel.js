@@ -35,10 +35,6 @@ class Carousel extends Component {
         tempArray.unshift(source);
         this.setState({temp: source, images: tempArray})
     }
-
-   
-   
-  
     }
 
 
